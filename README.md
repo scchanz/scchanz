@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Student at **SMKN 12 Malang**
+- 🎓 Student at **SMK**
 - 💼 Odoo Developer (Python, PostgreSQL, XML)
 - 📱 Android & Flutter Developer
 - 🌱 Always learning backend & mobile technologies
