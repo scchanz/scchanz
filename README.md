@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">👋 Hi, I'm Izzun Syamil Ghaly</h1>
+<h1 align="center">👋 Hi, I'm </h1>
 <h3 align="center">Odoo Developer | Android & Flutter Developer</h3>
 
 <p align="center">
